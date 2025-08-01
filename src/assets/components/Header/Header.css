@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+
+.header img {
+    border-radius: 15px;
+    height: 400px;
+    width: 600px;
+}
+
+.header h2 {
+    color: burlywood;
+}
