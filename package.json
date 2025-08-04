@@ -2,7 +2,7 @@
   "name": "exercise",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://RadostinStAtanasov.github.io/RadostinStAtanasov/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
